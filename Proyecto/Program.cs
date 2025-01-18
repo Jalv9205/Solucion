@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string miVariable;
+
+            miVariable = "Hola";
+            miVariable = "Mundo";
+            miVariable = "Desde GitHub";
+
+            Console.WriteLine(miVariable);
         }
     }
 }
